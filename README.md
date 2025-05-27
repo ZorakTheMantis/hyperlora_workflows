@@ -1,5 +1,7 @@
 # Workflows and Custom Nodes
 
+Workflows inspired by MishGUN + ByteDance's HyperLoRA nodes + a couple other QOL improvements.
+
 **You should be able to install all the nodes directly from comfyui's manager. The links provided below were suggested by ChatGPT so double check them first**
 
 ## Simple Workflow
