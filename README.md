@@ -1,22 +1,25 @@
-#Simple:
+# Workflows and Custom Nodes
 
-Custom nodes used in the Simple workflow: 
+**You should be able to install all the nodes directly from comfyui's manager. The links provided below were suggested by ChatGPT so double check them first**
 
--ComfyUI-HyperLoRA
--ComfyUI_InstantID
--efficiency-nodes-comfyui
--ComfyUI Impact Pack
+## Simple Workflow
 
-Custom nodes used in the Upscaler workflow: 
+**Custom nodes used:**
+- [ComfyUI-HyperLoRA](https://github.com/bytedance/ComfyUI-HyperLoRA)
+- [ComfyUI_InstantID](https://github.com/cubiq/ComfyUI_InstantID)
+- [efficiency-nodes-comfyui](https://github.com/jags111/efficiency-nodes-comfyui)
+- [ComfyUI Impact Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack)
 
--ComfyUI-HyperLoRA
--ComfyUI_InstantID
--efficiency-nodes-comfyui
--ComfyUI Impact Pack
+## Upscaler Workflow
 
--ComfyUI-Easy-Use
--ComfyUI Impact Subpack
--Comfyroll Studio
--ComfyUI-LogicUtils
--rgthree's ComfyUI Nodes
--D2 Size Selector
+**Custom nodes used:**
+- [ComfyUI-HyperLoRA](https://github.com/bytedance/ComfyUI-HyperLoRA)
+- [ComfyUI_InstantID](https://github.com/cubiq/ComfyUI_InstantID)
+- [efficiency-nodes-comfyui](https://github.com/jags111/efficiency-nodes-comfyui)
+- [ComfyUI Impact Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack)
+- [ComfyUI-Easy-Use](https://github.com/yolain/ComfyUI-Easy-Use)
+- [ComfyUI Impact Subpack](https://github.com/ltdrdata/ComfyUI-Impact-Subpack)
+- [Comfyroll Studio](https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes)
+- [ComfyUI-LogicUtils](https://github.com/aria1th/ComfyUI-LogicUtils)
+- [rgthree's ComfyUI Nodes](https://github.com/rgthree/rgthree-comfy)
+- [D2 Size Selector](https://github.com/da2el-ai/ComfyUI-d2-size-selector)
