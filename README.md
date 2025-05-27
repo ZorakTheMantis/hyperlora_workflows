@@ -1,4 +1,4 @@
-# Workflows and Custom Nodes
+# Zorak's HyperLoRA workflows (because who tf has the time to train actual loras?)
 
 Workflows inspired by MishGUN + ByteDance's HyperLoRA nodes + a couple other QOL improvements.
 
